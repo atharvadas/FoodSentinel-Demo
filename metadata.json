@@ -1,0 +1,6 @@
+{
+  "name": "Label Truth Engine",
+  "description": "Consumer-facing food transparency platform with explainable label deception detection, sugar analysis, and QR batch recall verification.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
